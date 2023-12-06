@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Unleash", "src\P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.IntegrationTests", "src\Playground.IntegrationTests\Playground.IntegrationTests.csproj", "{01C35F47-1607-493A-8E24-0D8A055F0ADA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground.Api", "src\Playground.Api\Playground.Api.csproj", "{7735D514-7606-4F93-ADE7-97BB2893013C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{01C35F47-1607-493A-8E24-0D8A055F0ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01C35F47-1607-493A-8E24-0D8A055F0ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01C35F47-1607-493A-8E24-0D8A055F0ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7735D514-7606-4F93-ADE7-97BB2893013C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7735D514-7606-4F93-ADE7-97BB2893013C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7735D514-7606-4F93-ADE7-97BB2893013C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7735D514-7606-4F93-ADE7-97BB2893013C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
